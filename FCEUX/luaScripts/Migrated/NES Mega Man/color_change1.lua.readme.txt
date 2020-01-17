@@ -1,0 +1,3 @@
+explanation for http://github.com/qq2476725205/Emulators/blob/master/FCEUX/luaScripts/Migrated/NES%20Mega%20Man/color_change1.lua
+
+You will need lua-GD ( http://github.com/ittner/lua-gd ) fully installed on your computer system to run this lua script.
